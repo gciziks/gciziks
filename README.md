@@ -10,7 +10,7 @@
 <code><img height="90" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 ## Work & Study
 - Currently enrolled in Computer Science Bachelor
-- Nowadays working with Data Engineering / Data Science
+- Nowadays working in a company with Data Engineering / Data Science
 - Studying more and more about C++
 
 ## 📫 How to reach me ...
