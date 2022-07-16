@@ -15,7 +15,6 @@
 
 ## 📫 How to reach me ...
 - [Email](mailto:gciziks@gmail.com?body=%0D%0AReached%20through%20GitHub.)
-- [LinkedIn](https://www.linkedin.com/notifications/)
 <!---
 gciziks/gciziks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
