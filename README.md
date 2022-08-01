@@ -9,7 +9,7 @@
 <code><img height="90" src="https://user-images.githubusercontent.com/47162780/178596729-044f38b7-4ddf-413c-b487-d84b7e8cb86c.png" alt="Python"/></code>
 <code><img height="90" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 ## Work & Study
-- Currently enrolled in Computer Science Bachelor
+- Currently enrolled in Software Engineer Bachelor
 - Nowadays working in a company with Data Engineering / Data Science
 - Studying more and more about C++
 
